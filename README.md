@@ -45,7 +45,6 @@
    cd foodie-go
 
 2. **install dependencies**
-   ```bash
  cd frontend
  npm install
 
@@ -53,7 +52,7 @@ cd backend
 npm install
 
 3. **create a .env file in your backend folder**
-   ```bash
+
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
